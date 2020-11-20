@@ -1,0 +1,103 @@
+{
+  "keywords": [
+    {
+      "keyword": "cash app",
+      "volume": 10,
+      "rank": 500,
+      "page": 1,
+      "isAdded": true
+    },
+    {
+      "keyword": "pandora",
+      "volume": 90,
+      "rank": 43,
+      "page": 1,
+      "isAdded": false
+    },
+    {
+      "keyword": "mobilepass after payment accepted",
+      "volume": 0,
+      "rank": 12,
+      "page": 1,
+      "isAdded": false
+    },
+    {
+      "keyword": "messenger",
+      "volume": 0,
+      "rank": 56,
+      "page": 1,
+      "isAdded": true
+    },
+    {
+      "keyword": "quizup",
+      "volume": 12,
+      "rank": 123,
+      "page": 1,
+      "isAdded": false
+    },
+    {
+      "keyword": "hotstar",
+      "volume": 10,
+      "rank": 544,
+      "page": 2,
+      "isAdded": false
+    },
+    {
+      "keyword": "ebay",
+      "volume": 10,
+      "rank": 544,
+      "page": 2,
+      "isAdded": false
+    },
+    {
+      "keyword": "textnow",
+      "volume": 10,
+      "rank": 544,
+      "page": 2,
+      "isAdded": true
+    },
+    {
+      "keyword": "discord",
+      "volume": 0,
+      "rank": 544,
+      "page": 2,
+      "isAdded": false
+    },
+    {
+      "keyword": "google",
+      "volume": 10,
+      "rank": 544,
+      "page": 2,
+      "isAdded": false
+    },
+    {
+      "keyword": "facebook messenger",
+      "volume": 65,
+      "rank": 144,
+      "page": 3,
+      "isAdded": true
+    },
+    {
+      "keyword": "amazon app",
+      "volume": 33,
+      "rank": 524,
+      "page": 3,
+      "isAdded": false
+    },
+    {
+      "keyword": "afterpay nextpay limits",
+      "volume": 56,
+      "rank": 544,
+      "page": 3,
+      "isAdded": false
+    },
+    {
+      "keyword": "gboard",
+      "volume": 0,
+      "rank": 5441,
+      "page": 3,
+      "isAdded": true
+    }
+  ],
+  "pagesAmount": 3
+}
