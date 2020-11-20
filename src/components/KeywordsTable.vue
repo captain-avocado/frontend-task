@@ -3,7 +3,7 @@
     <div class="title">Таблица ключей</div>
     <div class="table-container">
       <div class="table-row" v-for="keyword in filteredKeywords" :key="keyword.keyword">
-        <div class="table-col" style="min-width: 400px">
+        <div class="table-col" style="min-width: 400px; white-space: nowrap;">
           {{ keyword.keyword }}
         </div>
         <div class="table-col">
@@ -105,6 +105,7 @@ export default {
 
 .table-row {
   display: flex;
+  align-items: center;
   padding: 10px 5px;
 
   &:nth-child(2n + 1) {
