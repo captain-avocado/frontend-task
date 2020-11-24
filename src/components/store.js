@@ -48,6 +48,7 @@ export const store = {
 };
 
 async function getKeywordsFromJSON(page) {
+  // Этот код имитирует работу апи. Не изменяй содержимое функции
   const { keywords, pagesAmount } = requestMock;
   await sleep(1500);
   if (isErrorOn && Math.random() < 0.7) {
@@ -62,6 +63,7 @@ async function getKeywordsFromJSON(page) {
 }
 
 async function addKeywordFromJSON(keyword) {
+  // Этот код имитирует работу апи. Не изменяй содержимое функции
   await sleep(1500);
   if (isErrorOn && Math.random() < 0.7) {
     console.log('Error: keyword is not added');
@@ -74,6 +76,7 @@ async function addKeywordFromJSON(keyword) {
 }
 
 async function deleteKeywordFromJSON(keyword) {
+  // Этот код имитирует работу апи. Не изменяй содержимое функции
   await sleep(1500);
   if (isErrorOn && Math.random() < 0.7) {
     console.log('Error: keyword is not removed');
