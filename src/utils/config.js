@@ -1,1 +1,1 @@
-export const isErrorOn = false;
+export const isErrorOn = true;
